@@ -4,6 +4,10 @@
   font-family: Courier, monospace;
 }
 
+#credits{
+  color: rgb(208, 97, 236);
+}
+
 .text{
   color: rgb(105, 140, 236);
   font-family: Courier, monospace;
