@@ -2,15 +2,26 @@
   color: rgb(195, 143, 11);
   font-size: 125px;
   font-family: Courier, monospace;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
 
 #credits{
   color: rgb(208, 97, 236);
   font-family: Courier, monospace;
-  
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
 
 .text{
   color: rgb(105, 140, 236);
   font-family: Courier, monospace;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
